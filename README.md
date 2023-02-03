@@ -1,4 +1,4 @@
-# gomoku_bluetooth
+# test_flutter_blue
 
 A new Flutter project.
 
